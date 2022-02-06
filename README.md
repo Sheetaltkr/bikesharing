@@ -13,7 +13,16 @@ This Tableau story can be checked at this [link](https://public.tableau.com/app/
 
 ## Results: 
 
+NYC Bike Sharing Analysis story provides us insights listed below:
+### 1.  Proportion of Short-Term Customers to Annual Subscribers
 
+### 2.  Top Bike Stations in the City for Starting a Journey
+### 3.  Peak Riding Hours in month of August
+### 4.  Checkout Times by Users
+### 5.  Checkout Times by Gender
+### 6.  Trips by Weekdays per Hour
+### 7.  Trips by Gender(Weekday per Hour)
+### 8.  Trips by Gender by Weekday
 
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
