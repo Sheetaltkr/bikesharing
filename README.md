@@ -62,4 +62,14 @@ This heatmap conveys again that the usage is higher by Males over Females and un
 
 
 ## Summary:
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+- The majority of the users of Ny citi bikesharing are subscribers
+- There are more Male riders than Female/other bike riders
+- The best time to repair bikes is from 2am to 5 am
+- The peak hours of bike usage on weekdays from 7 am to 9 am and 5pm to 7pm
+- The best bike riding starting points are commercial complexes like office buildings or entertainment venues where public transport is less or parking spaces are low or parking cost is very high.
+
+### Further analysis
+- Check on the areas where parking lots are few
+- Check city locations where public transport is far from commercial buildings
+- Check for Bart locations or Train stations which could be great starting point for bike rides.
+
