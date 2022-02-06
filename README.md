@@ -15,14 +15,29 @@ This Tableau story can be checked at this [link](https://public.tableau.com/app/
 
 NYC Bike Sharing Analysis story provides us insights listed below:
 ### 1.  Proportion of Short-Term Customers to Annual Subscribers
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/1.png)
 
 ### 2.  Top Bike Stations in the City for Starting a Journey
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/2.png)
+
 ### 3.  Peak Riding Hours in month of August
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/3.png)
+
 ### 4.  Checkout Times by Users
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/4.png)
+
 ### 5.  Checkout Times by Gender
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/5.png)
+
 ### 6.  Trips by Weekdays per Hour
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/6.png)
+
 ### 7.  Trips by Gender(Weekday per Hour)
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/7.png)
+
 ### 8.  Trips by Gender by Weekday
+![](https://github.com/Sheetaltkr/bikesharing/blob/main/Challenge/Resources/8.png)
+
 
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
